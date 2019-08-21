@@ -6,6 +6,7 @@ This project implements the code for the following functions:
 3. Laplacian pyramid blending
 
 Example usages:
+
 python main.py 1 [path to input image] [output directory]
 
 python main.py 2 [path to input image1] [path to input image2] [output directory]
